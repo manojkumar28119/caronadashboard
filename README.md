@@ -11,7 +11,9 @@ HTML, CSS, JavaScript, React JS, Recharts, Figma
 Created a user-friendly platform to monitor Covid-19 cases in India state-wise.
 ● Implemented smooth navigation with React Router components Route,
 Switch, Link.
+
 ● Visualized data with interactive bar and line charts powered by Recharts.
+
 ● Brought design to life with Figma mockups and precision-crafted React
 components.
 
